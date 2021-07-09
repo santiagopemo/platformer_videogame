@@ -43,6 +43,7 @@ While playing you can pause the game pressing the **Esc** key, this will popup a
 
 To complete each level you must collide with the sea horse flag, this will display a menu which will show the time it took to complete the level
 <p align="center"><img src="readme_images/win.gif"></p>
+
 ## Author :pencil:
 ### Santiago Peña Mosquera  
 Mechatronic engineer and student of software development in holberton school, lover of building new things from scratch, that's why my passion for programming, starting from an empty sheet and turning it into a solution for real problems.  
