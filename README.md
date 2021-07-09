@@ -1,6 +1,5 @@
 # Platformer Videogame
-<p align="center><img src="readme_images/platformer_level2.gif"></p>
-![](readme_images/platformer_level2.gif)
+<p align="center"><img src="readme_images/platformer_level2.gif"></p>
 
 ### Attributions
 The realization of this project was possible, thanks to the following resources: 
