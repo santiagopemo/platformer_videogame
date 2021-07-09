@@ -20,7 +20,7 @@ The realization of this project was possible, thanks to the following resources:
   3. Clone this repository `git clone https://github.com/santiagopemo/platformer_videogame/`
   4. When you have opened the project in Unity go to file -> Build Settings -> Build
 
-* Download any of the following desktop versions depending on your operating system
+* If you only want to play, download any of the following desktop versions depending on your operating system and click on the executable
   * **[Platformer Linux](https://drive.google.com/file/d/1AFmC0SUztxUnFXIXbTtAMPave7cSwd67/view?usp=sharing)** 
   * **[Platformer Windows](https://drive.google.com/file/d/16qK7EBQsbgkPI6Oj15_8A6D3nZWk19Em/view?usp=sharing)**
   * **[Platformer Mac](https://drive.google.com/file/d/1x8ge4lPgs6VJ43tAdMkSnUDW-W075YFO/view?usp=sharing)**
