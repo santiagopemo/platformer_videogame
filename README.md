@@ -26,6 +26,10 @@ The realization of this project was possible, thanks to the following resources:
   * **[Platformer Mac](https://drive.google.com/file/d/1x8ge4lPgs6VJ43tAdMkSnUDW-W075YFO/view?usp=sharing)**
 
 ## Usage
+Once the level has started you con move the character with the **arrows keys** or with the kyes **A**, **W**, **S**, **D**, and jump with the **Space Bar**  
+<p align="center"><img src="readme_images/movement.gif"></p>
+You can also controll the camera by holding the right click and moving the mouse
+<p align="center"><img src="readme_images/cam_movement.gif"></p>
 
 ## Author :pencil:
 ### Santiago Peña Mosquera  
