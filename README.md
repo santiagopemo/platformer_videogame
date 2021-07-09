@@ -26,9 +26,13 @@ The realization of this project was possible, thanks to the following resources:
   * **[Platformer Mac](https://drive.google.com/file/d/1x8ge4lPgs6VJ43tAdMkSnUDW-W075YFO/view?usp=sharing)**
 
 ## Usage
-Once the level has started you con move the character with the **arrows keys** or with the kyes **A**, **W**, **S**, **D**, and jump with the **Space Bar**  
+The game begins in the main manu where you can salect level **1**, **2** or **3**, modify your settings in the **Options** menu or **Exit**. the game  
+<p align="center"><img src="readme_images/main_menu.gif"></p>
+In the Options menu you can you can change the volume of the background music, the volume of the sound effects, or invert the movement of the camera  
+<p align="center"><img src="readme_images/options_menu.gif"></p>
+Once the level has started you con move the character with the **arrows keys** or with the kyes **A**, **W**, **S**, **D**, and jump with the **Space Bar**   
 <p align="center"><img src="readme_images/movement.gif"></p>
-You can also controll the camera by holding the right click and moving the mouse
+You can also controll the camera by holding the right click and moving the mouse  
 <p align="center"><img src="readme_images/cam_movement.gif"></p>
 
 ## Author :pencil:
