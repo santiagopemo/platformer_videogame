@@ -1,5 +1,5 @@
 # Platformer Videogame
-<p align="center><img src="readme_images/platformer_level2.gif"</p>
+<p align="center><img src="readme_images/platformer_level2.gif"></p>
 ![](readme_images/platformer_level2.gif)
 
 ### Attributions
