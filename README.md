@@ -34,6 +34,8 @@ Once the level has started you con move the character with the **arrows keys** o
 <p align="center"><img src="readme_images/movement.gif"></p>
 You can also controll the camera by holding the right click and moving the mouse  
 <p align="center"><img src="readme_images/cam_movement.gif"></p>
+While playing you can pause the game pressing the **Esc** key, this will popup a pause menu where you can choose any of the options
+<p align="center"><img src="readme_images/pause_menu.png"></p>
 
 ## Author :pencil:
 ### Santiago Peña Mosquera  
