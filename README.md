@@ -39,7 +39,7 @@ You can also controll the camera by holding the right click and moving the mouse
 <p align="center"><img src="readme_images/cam_movement.gif"></p>
 
 While playing you can pause the game pressing the **Esc** key, this will popup a pause menu where you can choose any of the options
-<p align="center"><img src="readme_images/pause_menu.PNG"></p>
+<p align="center"><img width="600px" src="readme_images/pause_menu.PNG"></p>
 
 To complete each level you must collide with the sea horse flag, this will display a menu which will show the time it took to complete the level
 <p align="center"><img src="readme_images/win.gif"></p>
