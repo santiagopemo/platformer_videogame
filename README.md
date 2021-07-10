@@ -1,7 +1,10 @@
 # Platformer Videogame
 ## Description
 
-Platform video games, or simply platformers, are a genre of video games characterized by having to walk, run, jump or climb on a series of platforms and cliffs, with enemies, while collecting objects to complete the game. This repository contains the source code for a simple 3-level 3D platformer.
+Platform video games, or simply platformers, are a genre of video games characterized by having to walk, run, jump or climb on a series of platforms and cliffs, with enemies, while collecting objects to complete the game. This repository contains the source code for a simple 3-level 3D platformer.  
+
+[Play It Now](https://santiagopemo.github.io/platformer_videogame/)  
+
 <p align="center"><img src="readme_images/platformer_level2.gif"></p>
 
 ### Attributions
@@ -21,6 +24,7 @@ The realization of this project was possible, thanks to the following resources:
   4. When you have opened the project in Unity go to file -> Build Settings -> Build
 
 * If you only want to play, download any of the following desktop versions depending on your operating system and click on the executable
+  * **[Platformer WebGL](https://santiagopemo.github.io/platformer_videogame/)**  
   * **[Platformer Linux](https://drive.google.com/file/d/1AFmC0SUztxUnFXIXbTtAMPave7cSwd67/view?usp=sharing)** 
   * **[Platformer Windows](https://drive.google.com/file/d/16qK7EBQsbgkPI6Oj15_8A6D3nZWk19Em/view?usp=sharing)**
   * **[Platformer Mac](https://drive.google.com/file/d/1x8ge4lPgs6VJ43tAdMkSnUDW-W075YFO/view?usp=sharing)**
