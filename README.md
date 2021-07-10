@@ -16,9 +16,9 @@ The realization of this project was possible, thanks to the following resources:
 ## Installation
 * If you want to edit the game:  
   1. Download untity from its official site https://unity3d.com/es/get-unity/download
-  1. Download Blender from official site https://www.blender.org/
-  1. Clone this repository `git clone https://github.com/santiagopemo/platformer_videogame/`
-  1. When you have opened the project in Unity go to file -> Build Settings -> Build
+  2. Download Blender from official site https://www.blender.org/
+  3. Clone this repository `git clone https://github.com/santiagopemo/platformer_videogame/`
+  4. When you have opened the project in Unity go to file -> Build Settings -> Build
 
 * If you only want to play, download any of the following desktop versions depending on your operating system and click on the executable
   * **[Platformer Linux](https://drive.google.com/file/d/1AFmC0SUztxUnFXIXbTtAMPave7cSwd67/view?usp=sharing)** 
